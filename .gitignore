@@ -1,0 +1,6 @@
+
+__pycache__
+Log_Files/
+best_model_5000_images_trained.keras
+best_model.keras
+preprocessed_features/
