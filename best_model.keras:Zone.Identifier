@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://127.0.0.1:8888/tree
+HostUrl=http://127.0.0.1:8888/files/best_model.keras?_xsrf=2%7Cb713111e%7Cc4abb9ba5d2d787ab7faaf9fd2da52d6%7C1733212940
